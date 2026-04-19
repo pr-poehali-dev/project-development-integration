@@ -13,10 +13,10 @@ export default function HeroContent() {
         </div>
 
         {/* Main Heading */}
-        <h1 className="text-6xl md:text-8xl md:leading-tight text-white mb-4" style={{ fontFamily: "'Cinzel', serif", textShadow: "0 2px 16px rgba(0,0,0,0.25)", letterSpacing: "0.04em" }}>
+        <h1 className="text-6xl md:text-8xl md:leading-tight text-white mb-4" style={{ fontFamily: "'Cormorant Garamond', serif", textShadow: "2px 4px 20px rgba(80,60,20,0.35), 0 1px 4px rgba(0,0,0,0.2)", letterSpacing: "-0.01em", fontWeight: 400 }}>
           Боги Олимпа
           <br />
-          <span className="text-5xl md:text-6xl font-normal opacity-90">сквозь века</span>
+          <span className="text-5xl md:text-6xl opacity-90">сквозь века</span>
         </h1>
 
         {/* Description */}
