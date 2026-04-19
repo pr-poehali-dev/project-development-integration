@@ -13,10 +13,10 @@ export default function HeroContent() {
         </div>
 
         {/* Main Heading */}
-        <h1 className="text-5xl md:text-6xl md:leading-16 text-white mb-4" style={{ fontFamily: "'IM Fell English', serif", textShadow: "0 2px 12px rgba(0,0,0,0.2)" }}>
-          <span className="italic">Боги Олимпа</span>
+        <h1 className="text-6xl md:text-8xl md:leading-tight text-white mb-4" style={{ fontFamily: "'Cinzel', serif", textShadow: "0 2px 16px rgba(0,0,0,0.25)", letterSpacing: "0.04em" }}>
+          Боги Олимпа
           <br />
-          <span>сквозь века</span>
+          <span className="text-5xl md:text-6xl font-normal opacity-90">сквозь века</span>
         </h1>
 
         {/* Description */}
